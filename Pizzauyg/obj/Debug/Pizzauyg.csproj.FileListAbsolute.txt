@@ -1,0 +1,10 @@
+C:\Users\SAİT\source\repos\Pizzauyg\bin\Debug\Pizzauyg.exe.config
+C:\Users\SAİT\source\repos\Pizzauyg\bin\Debug\Pizzauyg.exe
+C:\Users\SAİT\source\repos\Pizzauyg\bin\Debug\Pizzauyg.pdb
+C:\Users\SAİT\source\repos\Pizzauyg\obj\Debug\Pizzauyg.csproj.AssemblyReference.cache
+C:\Users\SAİT\source\repos\Pizzauyg\obj\Debug\Pizzauyg.Form1.resources
+C:\Users\SAİT\source\repos\Pizzauyg\obj\Debug\Pizzauyg.Properties.Resources.resources
+C:\Users\SAİT\source\repos\Pizzauyg\obj\Debug\Pizzauyg.csproj.GenerateResource.cache
+C:\Users\SAİT\source\repos\Pizzauyg\obj\Debug\Pizzauyg.csproj.CoreCompileInputs.cache
+C:\Users\SAİT\source\repos\Pizzauyg\obj\Debug\Pizzauyg.exe
+C:\Users\SAİT\source\repos\Pizzauyg\obj\Debug\Pizzauyg.pdb
